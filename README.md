@@ -18,7 +18,7 @@ To set up and run the Maskify project locally, follow these steps:
 ### Steps to Run the Project
 1. **Clone the repository**:
   ```bash
-  git clone
+  git clone https://github.com/saurabh78crypto/maskify-frontend.git
   cd maskify-frontend
   ```
 
