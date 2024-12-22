@@ -6,7 +6,7 @@ Maskify is a web application that allows users to upload an image, draw a mask u
 
 ## Live Deployment
 
-- [Live Demo]()
+- [Live Demo](https://maskify-app.netlify.app/)
 
 ## How to Run Locally
 
